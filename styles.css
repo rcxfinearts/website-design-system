@@ -16,19 +16,19 @@
     
 }
 
-.color1 {
+.container-colors .colors .color1 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #6400DB;
     color: white;
 }
 
-.color2 {
+.container-colors .colors .color2 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #DB00AE;
     color: white;
 }
 
-.color3 {
+.container-colors .colors .color3 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #8ADB00;
     color: white;
