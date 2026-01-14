@@ -1,7 +1,10 @@
 
-
-div .colors1 {
+.container-colors {
     display: flex;
+}
+
+.container-colors .colors1 {
+    display: inline-block;
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
@@ -10,8 +13,8 @@ div .colors1 {
     color: white;
 }
 
-div .colors2 {
-    display: flex;
+.container-colors .colors2 {
+    display: inline-block;
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
@@ -20,8 +23,8 @@ div .colors2 {
     color: white;
 }
 
-div .colors3 {
-    display: flex;
+.container-colors .colors3 {
+    display: inline-block;
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
