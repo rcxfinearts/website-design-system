@@ -1,15 +1,28 @@
-div {
-    border: 1px solid rgb(255, 0, 85);
+
+
+.colors1 {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #6400DB;
+    color: white;
 }
 
-.colors {
+.colors2 {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #DB00AE;
+    color: white;
+}
 
+.colors3 {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #8ADB00;
+    color: white;
 }
 
 .fonts {
-
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .text-styles {
-    
+    border: 1px solid rgb(0, 0, 0);
 }
+
