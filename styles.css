@@ -1,18 +1,30 @@
 
 
 div .colors1 {
+    display: flex;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
     border: 1px solid rgb(0, 0, 0);
     background-color: #6400DB;
     color: white;
 }
 
 div .colors2 {
+    display: flex;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
     border: 1px solid rgb(0, 0, 0);
     background-color: #DB00AE;
     color: white;
 }
 
 div .colors3 {
+    display: flex;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
     border: 1px solid rgb(0, 0, 0);
     background-color: #8ADB00;
     color: white;
