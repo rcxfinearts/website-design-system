@@ -1,18 +1,18 @@
 
 
-.colors1 {
+div .colors1 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #6400DB;
     color: white;
 }
 
-.colors2 {
+div .colors2 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #DB00AE;
     color: white;
 }
 
-.colors3 {
+div .colors3 {
     border: 1px solid rgb(0, 0, 0);
     background-color: #8ADB00;
     color: white;
