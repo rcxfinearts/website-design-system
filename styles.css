@@ -6,32 +6,28 @@
     flex-wrap: no-wrap;
 }
 
-.container-colors .colors {
+.colors {
     display: flex;
     flex-direction: column;
     align-items: stretch;
     text-align: center;
     flex: 1;
     max-width: 600px;
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
     
 }
 
-.container-colors .colors .color1 {
-    border: 1px solid rgb(0, 0, 0);
+#color1 {
     background-color: #6400DB;
-    color: white;
 }
 
-.container-colors .colors .color2 {
-    border: 1px solid rgb(0, 0, 0);
+#color2 {
     background-color: #DB00AE;
-    color: white;
 }
 
-.container-colors .colors .color3 {
-    border: 1px solid rgb(0, 0, 0);
+#color3 {
     background-color: #8ADB00;
-    color: white;
 }
 
 .fonts {
