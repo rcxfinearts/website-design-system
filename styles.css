@@ -18,11 +18,19 @@
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .extra-bold {
     font-weight: 800;
+}
+
+.Medium {
+    font-weight: 500;
+}
+
+.semi-bold {
+    font-weight: 600;
 }
 
 .italic {
