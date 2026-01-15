@@ -25,7 +25,7 @@
     font-weight: 800;
 }
 
-.Medium {
+.medium {
     font-weight: 500;
 }
 
@@ -90,18 +90,6 @@
     color: rgb(0, 0, 0);
 }
 
-#fonts1 {
-
-}
-
-#fonts2 {
-
-}
-
-#fonts3 {
-
-}
-
 .container-text-styles {
     display: flex;
     max-width: 100%;
@@ -122,19 +110,6 @@
     color: rgb(0, 0, 0);
 }
 
-#text-styles1 {
-
+h3 {
+    font-size: 16px;
 }
-
-#text-styles2 {
-    
-}
-
-#text-styles3 {
-    
-}
-
-#text-styles4 {
-    
-}
-
