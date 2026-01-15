@@ -21,6 +21,10 @@
     font-weight: bold;
 }
 
+.extra-bold {
+    font-weight: 700;
+}
+
 .italic {
     font-style: italic;
 }
